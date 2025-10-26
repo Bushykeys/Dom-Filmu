@@ -1,0 +1,60 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "images"
+public_folder: "/images"
+
+site_url: "https://YOUR-SITE.netlify.app"
+logo_url: "/assets/dom_filmu-logo-poziome-rental.png"
+
+collections:
+  - name: "settings"
+    label: "Ustawienia"
+    files:
+      - name: "layout"
+        label: "Layout"
+        file: "data/settings.json"
+        format: "json"
+        fields:
+          - label: "Produkty w wierszu"
+            name: "itemsPerRow"
+            widget: "number"
+            min: 2
+            max: 5
+            default: 4
+          - label: "Kolejność kategorii"
+            name: "categoryOrder"
+            widget: "list"
+
+  - name: "products"
+    label: "Produkty"
+    label_singular: "Produkt"
+    files:
+      - name: "all"
+        label: "Lista produktów"
+        file: "data/products.json"
+        format: "json"
+        fields:
+          - label: "Produkty"
+            name: ""
+            widget: "list"
+            summary: "{{fields.title}} — {{fields.price}}"
+            fields:
+              - {label: "Tytuł", name: "title", widget: "string"}
+              - {label: "Obraz", name: "image", widget: "image"}
+              - {label: "Cena", name: "price", widget: "string", required: false}
+              - label: "Kategoria"
+                name: "category"
+                widget: "select"
+                options:
+                  - Kamery i aparaty
+                  - Streaming
+                  - Monitory
+                  - Światło
+                  - Nagrywanie dźwięku
+                  - Stabilizacja
+                  - Akcesoria
+                  - Adaptery
+                  - Obiektywy
+              - {label: "Funkcje / bullet list", name: "features", widget: "list", required: false}
