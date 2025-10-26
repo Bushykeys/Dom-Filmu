@@ -1,7 +1,7 @@
 [
   {
     "title": "Blackmagic Pocket 4K",
-    "image": "/images/bmpcc4k.png",
+    "image": "/images/bmpcc4k.jpg",
     "price": "250zł",
     "category": "Kamery i aparaty",
     "features": [
@@ -14,7 +14,7 @@
   },
   {
     "title": "Blackmagic Pocket 6K",
-    "image": "/images/bmpcc6k.png",
+    "image": "/images/bmpcc6k.jpg",
     "price": "300zł",
     "category": "Kamery i aparaty",
     "features": [
@@ -26,7 +26,7 @@
   },
   {
     "title": "Blackmagic Pocket 6K PRO",
-    "image": "/images/bmpcc6kpro.png",
+    "image": "/images/bmpcc6kpro.jpg",
     "price": "350zł",
     "category": "Kamery i aparaty",
     "features": [
@@ -39,7 +39,7 @@
   },
   {
     "title": "Sony A7 III",
-    "image": "/images/sony-a7iii.png",
+    "image": "/images/sony-a7iii.jpg",
     "price": "200zł",
     "category": "Kamery i aparaty",
     "features": [
@@ -51,7 +51,7 @@
   },
   {
     "title": "Sony A7S II",
-    "image": "/images/sony-a7sii.png",
+    "image": "/images/sony-a7sii.jpg",
     "price": "150zł",
     "category": "Kamery i aparaty",
     "features": [
@@ -63,7 +63,7 @@
   },
   {
     "title": "Canon 5D Mark III",
-    "image": "/images/canon-5d3.png",
+    "image": "/images/canon-5d3.jpg",
     "price": "100zł",
     "category": "Kamery i aparaty",
     "features": [
@@ -74,7 +74,7 @@
   },
   {
     "title": "GoPro 7 Black",
-    "image": "/images/gopro7.png",
+    "image": "/images/gopro7.jpg",
     "price": "",
     "category": "Kamery i aparaty",
     "features": [
@@ -88,7 +88,7 @@
   },
   {
     "title": "Samsung 360",
-    "image": "/images/samsung-360.png",
+    "image": "/images/samsung-360.jpg",
     "price": "",
     "category": "Kamery i aparaty",
     "features": [
@@ -99,119 +99,119 @@
   },
   {
     "title": "Canon 16-35mm 2.8",
-    "image": "/images/canon-16-35-28.png",
+    "image": "/images/canon-16-35-28.jpg",
     "price": "100zł",
     "category": "Obiektywy",
     "features": []
   },
   {
     "title": "Canon 24-70mm 2.8",
-    "image": "/images/canon-24-70-28.png",
+    "image": "/images/canon-24-70-28.jpg",
     "price": "100zł",
     "category": "Obiektywy",
     "features": []
   },
   {
     "title": "Canon 70-200mm 2.8",
-    "image": "/images/canon-70-200-28.png",
+    "image": "/images/canon-70-200-28.jpg",
     "price": "100zł netto",
     "category": "Obiektywy",
     "features": []
   },
   {
     "title": "Canon 100mm 2.8",
-    "image": "/images/canon-100-28.png",
+    "image": "/images/canon-100-28.jpg",
     "price": "100zł",
     "category": "Obiektywy",
     "features": []
   },
   {
     "title": "Xeen 14 mm",
-    "image": "/images/xeen-14.png",
+    "image": "/images/xeen-14.jpg",
     "price": "150zł",
     "category": "Obiektywy",
     "features": []
   },
   {
     "title": "Xeen 16 mm",
-    "image": "/images/xeen-16.png",
+    "image": "/images/xeen-16.jpg",
     "price": "150zł",
     "category": "Obiektywy",
     "features": []
   },
   {
     "title": "Xeen 24 mm",
-    "image": "/images/xeen-24.png",
+    "image": "/images/xeen-24.jpg",
     "price": "150zł",
     "category": "Obiektywy",
     "features": []
   },
   {
     "title": "Xeen 35 mm",
-    "image": "/images/xeen-35.png",
+    "image": "/images/xeen-35.jpg",
     "price": "150zł",
     "category": "Obiektywy",
     "features": []
   },
   {
     "title": "Xeen 50 mm",
-    "image": "/images/xeen-50.png",
+    "image": "/images/xeen-50.jpg",
     "price": "150zł",
     "category": "Obiektywy",
     "features": []
   },
   {
     "title": "Xeen 85 mm",
-    "image": "/images/xeen-85.png",
+    "image": "/images/xeen-85.jpg",
     "price": "150zł",
     "category": "Obiektywy",
     "features": []
   },
   {
     "title": "Xeen 135 mm",
-    "image": "/images/xeen-135.png",
+    "image": "/images/xeen-135.jpg",
     "price": "150zł",
     "category": "Obiektywy",
     "features": []
   },
   {
     "title": "Canon EF - Emount",
-    "image": "/images/adapter-ef-e.png",
+    "image": "/images/adapter-ef-e.jpg",
     "price": "50zł",
     "category": "Adaptery",
     "features": []
   },
   {
     "title": "Nikon F - Emount",
-    "image": "/images/adapter-nf-e.png",
+    "image": "/images/adapter-nf-e.jpg",
     "price": "50zł",
     "category": "Adaptery",
     "features": []
   },
   {
     "title": "PL - Emount",
-    "image": "/images/adapter-pl-e.png",
+    "image": "/images/adapter-pl-e.jpg",
     "price": "50zł",
     "category": "Adaptery",
     "features": []
   },
   {
     "title": "Canon EF - M4/3",
-    "image": "/images/adapter-ef-m43.png",
+    "image": "/images/adapter-ef-m43.jpg",
     "price": "50zł",
     "category": "Adaptery",
     "features": []
   },
   {
     "title": "Canon FD - M4/3",
-    "image": "/images/adapter-fd-m43.png",
+    "image": "/images/adapter-fd-m43.jpg",
     "price": "50zł",
     "category": "Adaptery",
     "features": []
   },
   {
     "title": "Rode Wireless",
-    "image": "/images/rode-wireless.png",
+    "image": "/images/rode-wireless.jpg",
     "price": "50zł",
     "category": "Nagrywanie dźwięku",
     "features": [
@@ -222,7 +222,7 @@
   },
   {
     "title": "Hollyland Mars",
-    "image": "/images/hollyland-mars.png",
+    "image": "/images/hollyland-mars.jpg",
     "price": "100zł",
     "category": "Nagrywanie dźwięku",
     "features": [
@@ -235,7 +235,7 @@
   },
   {
     "title": "Mikroport Sennheiser G3/G4",
-    "image": "/images/sennheiser-g3g4.png",
+    "image": "/images/sennheiser-g3g4.jpg",
     "price": "50zł",
     "category": "Nagrywanie dźwięku",
     "features": [
@@ -246,7 +246,7 @@
   },
   {
     "title": "Zestaw Sennheiser G4",
-    "image": "/images/sennheiser-g4.png",
+    "image": "/images/sennheiser-g4.jpg",
     "price": "100zł",
     "category": "Nagrywanie dźwięku",
     "features": [
@@ -257,7 +257,7 @@
   },
   {
     "title": "Rekorder Zoom H6",
-    "image": "/images/zoom-h6.png",
+    "image": "/images/zoom-h6.jpg",
     "price": "100zł",
     "category": "Nagrywanie dźwięku",
     "features": [
@@ -269,112 +269,112 @@
   },
   {
     "title": "Rode NTG3 Black",
-    "image": "/images/rode-ntg3.png",
+    "image": "/images/rode-ntg3.jpg",
     "price": "50zł",
     "category": "Nagrywanie dźwięku",
     "features": []
   },
   {
     "title": "Rode Boompole Tyczka",
-    "image": "/images/rode-boompole.png",
+    "image": "/images/rode-boompole.jpg",
     "price": "50zł",
     "category": "Nagrywanie dźwięku",
     "features": []
   },
   {
     "title": "Sennheiser Plug",
-    "image": "/images/sennheiser-plug.png",
+    "image": "/images/sennheiser-plug.jpg",
     "price": "50zł",
     "category": "Nagrywanie dźwięku",
     "features": []
   },
   {
     "title": "Ronin XL",
-    "image": "/images/ronin-xl.png",
+    "image": "/images/ronin-xl.jpg",
     "price": "200zł",
     "category": "Stabilizacja",
     "features": []
   },
   {
     "title": "Ronin M",
-    "image": "/images/ronin-m.png",
+    "image": "/images/ronin-m.jpg",
     "price": "200zł",
     "category": "Stabilizacja",
     "features": []
   },
   {
     "title": "Ronin RS2",
-    "image": "/images/ronin-rs2.png",
+    "image": "/images/ronin-rs2.jpg",
     "price": "200zł",
     "category": "Stabilizacja",
     "features": []
   },
   {
     "title": "Floatcam FC12",
-    "image": "/images/floatcam-fc12.png",
+    "image": "/images/floatcam-fc12.jpg",
     "price": "200zł",
     "category": "Stabilizacja",
     "features": []
   },
   {
     "title": "Monopod Manfrotto",
-    "image": "/images/monopod-manfrotto.png",
+    "image": "/images/monopod-manfrotto.jpg",
     "price": "50zł",
     "category": "Stabilizacja",
     "features": []
   },
   {
     "title": "EasyRig 5",
-    "image": "/images/easyrig-5.png",
+    "image": "/images/easyrig-5.jpg",
     "price": "350zł",
     "category": "Stabilizacja",
     "features": []
   },
   {
     "title": "Slider 100cm z głowicą",
-    "image": "/images/slider-100.png",
+    "image": "/images/slider-100.jpg",
     "price": "100zł",
     "category": "Stabilizacja",
     "features": []
   },
   {
     "title": "Statyw Manfrotto",
-    "image": "/images/tripod-manfrotto.png",
+    "image": "/images/tripod-manfrotto.jpg",
     "price": "50zł",
     "category": "Stabilizacja",
     "features": []
   },
   {
     "title": "Aputure 300DII 5600K",
-    "image": "/images/aputure-300d2.png",
+    "image": "/images/aputure-300d2.jpg",
     "price": "100zł",
     "category": "Światło",
     "features": []
   },
   {
     "title": "Aputure Mini RGBWW",
-    "image": "/images/aputure-mini.png",
+    "image": "/images/aputure-mini.jpg",
     "price": "50zł",
     "category": "Światło",
     "features": []
   },
   {
     "title": "Lampy PAR 4szt. 3200K",
-    "image": "/images/par-lights.png",
+    "image": "/images/par-lights.jpg",
     "price": "200zł",
     "category": "Światło",
     "features": []
   },
   {
     "title": "Akurat D4 2700-6500K",
-    "image": "/images/akurat-d4.png",
+    "image": "/images/akurat-d4.jpg",
     "price": "100zł",
     "category": "Światło",
     "features": []
   },
   {
     "title": "Miecz RGBWW 25cm",
-    "image": "/images/rgbww-25.png",
+    "image": "/images/rgbww-25.jpg",
     "price": "100zł",
     "category": "Światło",
     "features": [
@@ -387,7 +387,7 @@
   },
   {
     "title": "Miecz RGBWW 77cm",
-    "image": "/images/rgbww-77.png",
+    "image": "/images/rgbww-77.jpg",
     "price": "100zł",
     "category": "Światło",
     "features": [
@@ -400,7 +400,7 @@
   },
   {
     "title": "Miecz RGBWW 120cm",
-    "image": "/images/rgbww-120.png",
+    "image": "/images/rgbww-120.jpg",
     "price": "100zł",
     "category": "Światło",
     "features": [
@@ -413,7 +413,7 @@
   },
   {
     "title": "ATEM Extreme ISO",
-    "image": "/images/atem-extreme-iso.png",
+    "image": "/images/atem-extreme-iso.jpg",
     "price": "200zł",
     "category": "Streaming",
     "features": [
@@ -425,7 +425,7 @@
   },
   {
     "title": "Yolobox Pro",
-    "image": "/images/yolobox-pro.png",
+    "image": "/images/yolobox-pro.jpg",
     "price": "200zł",
     "category": "Streaming",
     "features": [
@@ -438,7 +438,7 @@
   },
   {
     "title": "Vmix Live PC Stacja",
-    "image": "/images/vmix-live.png",
+    "image": "/images/vmix-live.jpg",
     "price": "1000zł",
     "category": "Streaming",
     "features": [
@@ -451,70 +451,70 @@
   },
   {
     "title": "Blackmagic Smartview 17\"",
-    "image": "/images/smartview-17.png",
+    "image": "/images/smartview-17.jpg",
     "price": "100zł",
     "category": "Monitory",
     "features": []
   },
   {
     "title": "Blackmagic Video Assist 5\"",
-    "image": "/images/video-assist-5.png",
+    "image": "/images/video-assist-5.jpg",
     "price": "100zł",
     "category": "Monitory",
     "features": []
   },
   {
     "title": "Rig 15mm",
-    "image": "/images/rig-15.png",
+    "image": "/images/rig-15.jpg",
     "price": "50zł",
     "category": "Akcesoria",
     "features": []
   },
   {
     "title": "Follow Focus ROD 15mm",
-    "image": "/images/ff-rod-15.png",
+    "image": "/images/ff-rod-15.jpg",
     "price": "50zł",
     "category": "Akcesoria",
     "features": []
   },
   {
     "title": "Kompendium 4x4",
-    "image": "/images/kompendium-44.png",
+    "image": "/images/kompendium-44.jpg",
     "price": "50zł",
     "category": "Akcesoria",
     "features": []
   },
   {
     "title": "Follow Focus Tilta",
-    "image": "/images/ff-tilta.png",
+    "image": "/images/ff-tilta.jpg",
     "price": "50zł",
     "category": "Akcesoria",
     "features": []
   },
   {
     "title": "Konwerter SDI/HDMI",
-    "image": "/images/sdi-hdmi.png",
+    "image": "/images/sdi-hdmi.jpg",
     "price": "50zł",
     "category": "Akcesoria",
     "features": []
   },
   {
     "title": "Ultra Mini Recorder",
-    "image": "/images/ultra-mini-recorder.png",
+    "image": "/images/ultra-mini-recorder.jpg",
     "price": "50zł",
     "category": "Akcesoria",
     "features": []
   },
   {
     "title": "DataVideo Prompter",
-    "image": "/images/datavideo-prompter.png",
+    "image": "/images/datavideo-prompter.jpg",
     "price": "250zł",
     "category": "Akcesoria",
     "features": []
   },
   {
     "title": "2x Vlock + ładowarka",
-    "image": "/images/vlock-charger.png",
+    "image": "/images/vlock-charger.jpg",
     "price": "50zł",
     "category": "Akcesoria",
     "features": []
