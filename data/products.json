@@ -474,6 +474,18 @@
       "price": "50zł",
       "category": "Akcesoria",
       "features": []
+    },
+    {
+      "title": "Sigma Art 35mm f/1.4",
+      "price": "100",
+      "category": "Obiektywy",
+      "image": "/images/4.-sigma-18-35mm-f1.8-100zl.jpg"
+    },
+    {
+      "title": "Sigma Art 18-35mm f/1.8",
+      "image": "/images/4.-sigma-18-35mm-f1.8-100zl.jpg",
+      "price": "100",
+      "category": "Obiektywy"
     }
   ],
   "": [
