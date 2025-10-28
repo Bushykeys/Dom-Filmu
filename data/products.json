@@ -51,20 +51,8 @@
       ]
     },
     {
-      "title": "Sony A7S II",
-      "image": "/images/sony-a7sii.jpg",
-      "price": "150zł",
-      "category": "Kamery i aparaty",
-      "features": [
-        "6 baterii NP-FW50",
-        "ładowarka (X4)",
-        "adapter EF",
-        "2szt karta SD 128GB"
-      ]
-    },
-    {
       "title": "Canon 5D Mark III",
-      "image": "/images/canon-5d3.jpg",
+      "image": "/images/5dmarkiii.jpg",
       "price": "100zł",
       "category": "Kamery i aparaty",
       "features": [
@@ -374,9 +362,9 @@
       "features": []
     },
     {
-      "title": "Miecz RGBWW 25cm",
+      "title": "Nanlite 25cm",
       "image": "/images/rgbww-25.jpg",
-      "price": "100zł",
+      "price": "25 zł",
       "category": "Światło",
       "features": [
         "temperatura barwowa 2700-7500K",
@@ -387,9 +375,9 @@
       ]
     },
     {
-      "title": "Miecz RGBWW 77cm",
+      "title": "Nanlite Pavotube 75cm",
       "image": "/images/rgbww-77.jpg",
-      "price": "100zł",
+      "price": "50 zł",
       "category": "Światło",
       "features": [
         "temperatura barwowa 2700-7500K",
@@ -400,9 +388,9 @@
       ]
     },
     {
-      "title": "Miecz RGBWW 120cm",
+      "title": "Nanlite Pavotube 75cm",
       "image": "/images/rgbww-120.jpg",
-      "price": "100zł",
+      "price": "75zł",
       "category": "Światło",
       "features": [
         "temperatura barwowa 2700-7500K",
@@ -416,38 +404,12 @@
       "title": "ATEM Extreme ISO",
       "image": "/images/atem-extreme-iso.jpg",
       "price": "200zł",
-      "category": "Streaming",
+      "category": "Akcesoria",
       "features": [
         "8 kanałów",
         "HDMI",
         "Efekty Graficzne",
         "Nagrywanie na dysk"
-      ]
-    },
-    {
-      "title": "Yolobox Pro",
-      "image": "/images/yolobox-pro.jpg",
-      "price": "200zł",
-      "category": "Streaming",
-      "features": [
-        "8 kanałów",
-        "HDMI / USB / SD",
-        "Efekty Graficzne",
-        "Nagrywanie na dysk",
-        "Wbudowany modem LTE"
-      ]
-    },
-    {
-      "title": "Vmix Live PC Stacja",
-      "image": "/images/vmix-live.jpg",
-      "price": "1000zł",
-      "category": "Streaming",
-      "features": [
-        "4 kanały SDI",
-        "4 kanały HDMI",
-        "OUTPUT HDMI/SDI/LIVE",
-        "Oprogramowanie VMIX",
-        "Asystent VMIX w cenie"
       ]
     },
     {
