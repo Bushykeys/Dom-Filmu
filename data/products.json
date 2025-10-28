@@ -63,7 +63,7 @@
     },
     {
       "title": "GoPro 7 Black",
-      "image": "/images/gopro7.jpg",
+      "image": "/images/kamera-sportowa-gopro-hero7-black_-2203-_780.jpg",
       "price": "50zł",
       "category": "Kamery i aparaty",
       "features": [
@@ -467,6 +467,20 @@
       "price": "50zł",
       "category": "Akcesoria",
       "features": []
+    },
+    {
+      "title": "Blackmagic Ursa 4.6K",
+      "image": "/images/ursa4.6k.jpg",
+      "price": "350zł",
+      "category": "Kamery i aparaty",
+      "features": [
+        "2x karty CF",
+        "2x Vlock",
+        "Shouler pad",
+        "Rączki",
+        "Rurki 15mm",
+        "Płyta VCF"
+      ]
     }
   ],
   "": [
