@@ -1,14 +1,14 @@
 {
-  "itemsPerRow": 4,
+  "itemsPerRow": 3,
   "categoryOrder": [
     "Kamery i aparaty",
-    "Streaming",
+    "Obiektywy",
+    "Adaptery",
     "Monitory",
-    "Światło",
     "Nagrywanie dźwięku",
     "Stabilizacja",
     "Akcesoria",
-    "Adaptery",
-    "Obiektywy"
+    "Streaming",
+    "Światło"
   ]
 }
