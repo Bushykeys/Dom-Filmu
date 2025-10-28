@@ -1,10 +1,10 @@
 backend:
   name: github
-  # TODO: set this to your GitHub username/repository, for example:
-  # repo: myusername/bushybushbush
   repo: Bushykeys/Dom-Filmu
-  # optional: branch defaults to `master`; change if using a different default branch
   branch: main
+  site_domain: 018f3c19-1a88-432d-b669-b41a01a8378a
+  base_url: https://api.netlify.com
+  auth_endpoint: auth
 
 media_folder: "images"
 public_folder: "/images"
