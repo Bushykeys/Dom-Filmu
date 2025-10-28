@@ -1,16 +1,30 @@
 {
   "products": [
     {
-      "title": "Blackmagic Pocket 4K",
-      "image": "/images/bmpcc4k.jpg",
-      "price": "200zł",
+      "title": "Blackmagic Ursa 4.6K",
+      "image": "/images/ursa4.6k.jpg",
+      "price": "350zł",
       "category": "Kamery i aparaty",
       "features": [
-        "TiltaCage",
-        "6 baterii LP6",
+        "2x karty CF",
+        "2x Vlock",
+        "Shouler pad",
+        "Rączki",
+        "Rurki 15mm",
+        "Płyta VCF"
+      ]
+    },
+    {
+      "title": "Blackmagic Pocket 6K PRO",
+      "image": "/images/bmpcc6kpro.jpg",
+      "price": "350zł",
+      "category": "Kamery i aparaty",
+      "features": [
+        "lupa",
+        "SmallRig Cage",
+        "4 baterie",
         "2x 1TB SSD",
-        "Adapter EF",
-        "Ładowarka"
+        "ładowarka"
       ]
     },
     {
@@ -26,16 +40,16 @@
       ]
     },
     {
-      "title": "Blackmagic Pocket 6K PRO",
-      "image": "/images/bmpcc6kpro.jpg",
-      "price": "350zł",
+      "title": "Blackmagic Pocket 4K",
+      "image": "/images/bmpcc4k.jpg",
+      "price": "200zł",
       "category": "Kamery i aparaty",
       "features": [
-        "lupa",
-        "SmallRig Cage",
-        "4 baterie",
+        "TiltaCage",
+        "6 baterii LP6",
         "2x 1TB SSD",
-        "ładowarka"
+        "Adapter EF",
+        "Ładowarka"
       ]
     },
     {
@@ -104,13 +118,6 @@
       "title": "Canon 70-200mm 2.8",
       "image": "/images/canon-70-200-28.jpg",
       "price": "100zł netto",
-      "category": "Obiektywy",
-      "features": []
-    },
-    {
-      "title": "Canon 100mm 2.8",
-      "image": "/images/canon-100-28.jpg",
-      "price": "100zł",
       "category": "Obiektywy",
       "features": []
     },
@@ -467,20 +474,6 @@
       "price": "50zł",
       "category": "Akcesoria",
       "features": []
-    },
-    {
-      "title": "Blackmagic Ursa 4.6K",
-      "image": "/images/ursa4.6k.jpg",
-      "price": "350zł",
-      "category": "Kamery i aparaty",
-      "features": [
-        "2x karty CF",
-        "2x Vlock",
-        "Shouler pad",
-        "Rączki",
-        "Rurki 15mm",
-        "Płyta VCF"
-      ]
     }
   ],
   "": [
