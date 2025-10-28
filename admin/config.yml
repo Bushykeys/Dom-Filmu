@@ -11,42 +11,42 @@ logo_url: "/assets/dom_filmu-logo-poziome-rental.png"
 
 collections:
   - name: "settings"
-    label: "Ustawienia"
+    label: "Settings"
     files:
       - name: "layout"
         label: "Layout"
         file: "data/settings.json"
         format: "json"
         fields:
-          - label: "Produkty w wierszu"
+          - label: "Products per row"
             name: "itemsPerRow"
             widget: "number"
             min: 2
             max: 5
             default: 4
-          - label: "Kolejność kategorii"
+          - label: "Category order"
             name: "categoryOrder"
             widget: "list"
-            field: {label: "Kategoria", name: "category", widget: "string"}
+            field: {label: "Category", name: "category", widget: "string"}
 
   - name: "products"
-    label: "Produkty"
-    label_singular: "Produkt"
+    label: "Products"
+    label_singular: "Product"
     files:
       - name: "all"
-        label: "Lista produktów"
+        label: "Product list"
         file: "data/products.json"
         format: "json"
         fields:
-          - label: "Produkty"
+          - label: "Products"
             name: "products"
             widget: "list"
             summary: "{{fields.title}} — {{fields.price}}"
             fields:
-              - {label: "Tytuł", name: "title", widget: "string"}
-              - {label: "Obraz", name: "image", widget: "image"}
-              - {label: "Cena", name: "price", widget: "string", required: false}
-              - label: "Kategoria"
+              - {label: "Title", name: "title", widget: "string"}
+              - {label: "Image", name: "image", widget: "image"}
+              - {label: "Price", name: "price", widget: "string", required: false}
+              - label: "Category"
                 name: "category"
                 widget: "select"
                 options:
@@ -59,4 +59,5 @@ collections:
                   - Akcesoria
                   - Adaptery
                   - Obiektywy
-              - {label: "Funkcje / bullet list", name: "features", widget: "list", required: false}
+              - {label: "Features / bullet list", name: "features", widget: "list", required: false}
+
