@@ -2,9 +2,6 @@ backend:
   name: github
   repo: Bushykeys/Dom-Filmu
   branch: main
-  site_domain: 018f3c19-1a88-432d-b669-b41a01a8378a
-  base_url: https://api.netlify.com
-  auth_endpoint: auth
 
 media_folder: "images"
 public_folder: "/images"
