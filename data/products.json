@@ -3,7 +3,7 @@
     {
       "title": "Blackmagic Pocket 4K",
       "image": "/images/bmpcc4k.jpg",
-      "price": "250zł",
+      "price": "200zł",
       "category": "Kamery i aparaty",
       "features": [
         "TiltaCage",
@@ -40,7 +40,7 @@
     },
     {
       "title": "Sony A7 III",
-      "image": "/images/sony-a7iii.jpg",
+      "image": "/images/sdigsonalpaa7mk3bodb_l.jpg",
       "price": "200zł",
       "category": "Kamery i aparaty",
       "features": [
@@ -64,7 +64,7 @@
     {
       "title": "GoPro 7 Black",
       "image": "/images/gopro7.jpg",
-      "price": "",
+      "price": "50zł",
       "category": "Kamery i aparaty",
       "features": [
         "5 baterii",
@@ -78,7 +78,7 @@
     {
       "title": "Samsung 360",
       "image": "/images/samsung-360.jpg",
-      "price": "",
+      "price": "50zł",
       "category": "Kamery i aparaty",
       "features": [
         "akumulator",
@@ -199,7 +199,7 @@
       "features": []
     },
     {
-      "title": "Rode Wireless",
+      "title": "Rode GO Wireless",
       "image": "/images/rode-wireless.jpg",
       "price": "50zł",
       "category": "Nagrywanie dźwięku",
@@ -285,13 +285,6 @@
       "features": []
     },
     {
-      "title": "Ronin M",
-      "image": "/images/ronin-m.jpg",
-      "price": "200zł",
-      "category": "Stabilizacja",
-      "features": []
-    },
-    {
       "title": "Ronin RS2",
       "image": "/images/ronin-rs2.jpg",
       "price": "200zł",
@@ -343,7 +336,7 @@
     {
       "title": "Aputure Mini RGBWW",
       "image": "/images/aputure-mini.jpg",
-      "price": "50zł",
+      "price": "25zł",
       "category": "Światło",
       "features": []
     },
@@ -362,7 +355,7 @@
       "features": []
     },
     {
-      "title": "Nanlite 25cm",
+      "title": "Nanlite Pavotube 6C - 25cm",
       "image": "/images/rgbww-25.jpg",
       "price": "25 zł",
       "category": "Światło",
@@ -375,7 +368,7 @@
       ]
     },
     {
-      "title": "Nanlite Pavotube 75cm",
+      "title": "Nanlite Pavotube 30C - 120cm",
       "image": "/images/rgbww-77.jpg",
       "price": "50 zł",
       "category": "Światło",
@@ -388,7 +381,7 @@
       ]
     },
     {
-      "title": "Nanlite Pavotube 75cm",
+      "title": "Nanlite Pavotube 15C - 75cm",
       "image": "/images/rgbww-120.jpg",
       "price": "75zł",
       "category": "Światło",
@@ -434,36 +427,29 @@
       "features": []
     },
     {
-      "title": "Follow Focus ROD 15mm",
+      "title": "Tilta Nucleus Nano",
       "image": "/images/ff-rod-15.jpg",
       "price": "50zł",
       "category": "Akcesoria",
       "features": []
     },
     {
-      "title": "Kompendium 4x4",
+      "title": "Matte Box Shoot35 4x4",
       "image": "/images/kompendium-44.jpg",
       "price": "50zł",
       "category": "Akcesoria",
       "features": []
     },
     {
-      "title": "Follow Focus Tilta",
+      "title": "Follow Focus Shoot35",
       "image": "/images/ff-tilta.jpg",
-      "price": "50zł",
+      "price": "75zł",
       "category": "Akcesoria",
       "features": []
     },
     {
-      "title": "Konwerter SDI/HDMI",
+      "title": "Konwerter Blackmagic SDI<>HDMI",
       "image": "/images/sdi-hdmi.jpg",
-      "price": "50zł",
-      "category": "Akcesoria",
-      "features": []
-    },
-    {
-      "title": "Ultra Mini Recorder",
-      "image": "/images/ultra-mini-recorder.jpg",
       "price": "50zł",
       "category": "Akcesoria",
       "features": []
@@ -477,7 +463,7 @@
     },
     {
       "title": "2x Vlock + ładowarka",
-      "image": "/images/vlock-charger.jpg",
+      "image": "/images/2x-v-lock-ladowarka-600x600.jpg",
       "price": "50zł",
       "category": "Akcesoria",
       "features": []
