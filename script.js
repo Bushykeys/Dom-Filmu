@@ -1,10 +1,12 @@
 // /script.js
 async function loadData() {
-  const [settings, products] = await Promise.all([
+  const [settings, productsData] = await Promise.all([
     fetch('/data/settings.json').then(r => r.json()),
     fetch('/data/products.json').then(r => r.json())
   ]);
 
+  // Handle both old (array) and new (object with 'products' key) formats
+  const products = Array.isArray(productsData) ? productsData : productsData.products;
   renderCatalog(products, settings);
 }
 

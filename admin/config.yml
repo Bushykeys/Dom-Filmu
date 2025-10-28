@@ -27,6 +27,7 @@ collections:
           - label: "Kolejność kategorii"
             name: "categoryOrder"
             widget: "list"
+            field: {label: "Kategoria", name: "category", widget: "string"}
 
   - name: "products"
     label: "Produkty"
@@ -38,7 +39,7 @@ collections:
         format: "json"
         fields:
           - label: "Produkty"
-            name: ""
+            name: "products"
             widget: "list"
             summary: "{{fields.title}} — {{fields.price}}"
             fields:
