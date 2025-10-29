@@ -17,8 +17,8 @@ function heading(text) {
 }
 
 function productCard(p) {
-  const bullets = (p.features || []).map(li => `<li class="list-disc ml-6">${li}</li>`).join('');
-  return `
+  const bullets = (p.features || []).map(li => `<li class="list-disc ml-6">${li}</li>`).join('');w-full h-full ow-full h-60 mb-3 overflow-hidden rounded-lg
+  return object-cover
     <div class="text-center">
       <h3 class="font-extrabold text-lg mb-3">${p.title}</h3>
       ${p.image ? `<div class="w-full h-48 mb-3 flex items-center justify-center"><img src="${p.image}" alt="${p.title}" class="max-w-full max-h-full object-contain"></div>` : ''}
