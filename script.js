@@ -18,7 +18,7 @@ function productCard(p) {
   return `
     <div class='text-center'>
       <h3 class='font-extrabold text-lg mb-3'>${p.title}</h3>
-      ${p.image ? `<div class='w-full h-60 mb-3 overflow-hidden rounded-lg flex items-center justify-center'><img src='${p.image}' alt='${p.title}' class='w-full h-full object-cover'></div>` : ''}
+      ${p.image ? `<div class='w-full h-48 mb-3 flex items-center justify-center'><img src='${p.image}' alt='${p.title}' class='max-w-full max-h-full object-contain'></div>` : ''}
       ${p.price ? `<div class='font-semibold mb-3'>${p.price}</div>` : ''}
       ${bullets ? `<ul class='text-left text-sm leading-6 inline-block'>${bullets}</ul>` : ''}
     </div>
